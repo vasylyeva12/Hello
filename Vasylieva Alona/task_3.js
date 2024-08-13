@@ -8,3 +8,5 @@ db.users.updateMany(
     $inc: { balance: 50 }
   }
 );
+
+
